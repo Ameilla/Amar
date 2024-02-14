@@ -1,0 +1,6 @@
+framework module Pods_MOCA {
+  umbrella header "Pods-MOCA-umbrella.h"
+
+  export *
+  module * { export * }
+}
