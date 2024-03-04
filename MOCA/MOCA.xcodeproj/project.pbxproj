@@ -71,6 +71,17 @@
 		B76803722AD7B934002CC19B /* cells.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76803712AD7B934002CC19B /* cells.swift */; };
 		B76803742AD7C532002CC19B /* ceil.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76803732AD7C532002CC19B /* ceil.swift */; };
 		B920F3CD2B7C88FF00E8E057 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B920F3CC2B7C88FF00E8E057 /* UIView.swift */; };
+		B99F3ACF2B960845000CF894 /* t_ques_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3ACE2B960845000CF894 /* t_ques_1.swift */; };
+		B99F3AD12B960D07000CF894 /* t_ques_2_draw.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3AD02B960D06000CF894 /* t_ques_2_draw.swift */; };
+		B99F3AD32B960EA6000CF894 /* t_ques_3_draw.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3AD22B960EA5000CF894 /* t_ques_3_draw.swift */; };
+		B99F3AD52B961432000CF894 /* t_ques_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3AD42B961432000CF894 /* t_ques_4.swift */; };
+		B99F3AD72B9616CE000CF894 /* t_ques_5.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3AD62B9616CE000CF894 /* t_ques_5.swift */; };
+		B99F3AD92B961942000CF894 /* t_ques_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3AD82B961942000CF894 /* t_ques_6.swift */; };
+		B99F3ADB2B961A79000CF894 /* t_ques_7.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3ADA2B961A79000CF894 /* t_ques_7.swift */; };
+		B99F3ADD2B961C5B000CF894 /* t_ques_8.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3ADC2B961C5B000CF894 /* t_ques_8.swift */; };
+		B99F3ADF2B962F35000CF894 /* t_ques_9.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3ADE2B962F35000CF894 /* t_ques_9.swift */; };
+		B99F3AE12B963194000CF894 /* t_ques_10.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3AE02B963194000CF894 /* t_ques_10.swift */; };
+		B99F3AE32B963539000CF894 /* LanguageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B99F3AE22B963539000CF894 /* LanguageVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -139,6 +150,17 @@
 		B76803712AD7B934002CC19B /* cells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cells.swift; sourceTree = "<group>"; };
 		B76803732AD7C532002CC19B /* ceil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ceil.swift; sourceTree = "<group>"; };
 		B920F3CC2B7C88FF00E8E057 /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		B99F3ACE2B960845000CF894 /* t_ques_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_1.swift; sourceTree = "<group>"; };
+		B99F3AD02B960D06000CF894 /* t_ques_2_draw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_2_draw.swift; sourceTree = "<group>"; };
+		B99F3AD22B960EA5000CF894 /* t_ques_3_draw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_3_draw.swift; sourceTree = "<group>"; };
+		B99F3AD42B961432000CF894 /* t_ques_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_4.swift; sourceTree = "<group>"; };
+		B99F3AD62B9616CE000CF894 /* t_ques_5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_5.swift; sourceTree = "<group>"; };
+		B99F3AD82B961942000CF894 /* t_ques_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_6.swift; sourceTree = "<group>"; };
+		B99F3ADA2B961A79000CF894 /* t_ques_7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_7.swift; sourceTree = "<group>"; };
+		B99F3ADC2B961C5B000CF894 /* t_ques_8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_8.swift; sourceTree = "<group>"; };
+		B99F3ADE2B962F35000CF894 /* t_ques_9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_9.swift; sourceTree = "<group>"; };
+		B99F3AE02B963194000CF894 /* t_ques_10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = t_ques_10.swift; sourceTree = "<group>"; };
+		B99F3AE22B963539000CF894 /* LanguageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageVC.swift; sourceTree = "<group>"; };
 		C5F54AF3F9A8A5AA30F1F6C4 /* Pods-MOCA.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MOCA.debug.xcconfig"; path = "Target Support Files/Pods-MOCA/Pods-MOCA.debug.xcconfig"; sourceTree = "<group>"; };
 		CBD8869DB78008AE0EC122B2 /* Pods-MOCA.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MOCA.release.xcconfig"; path = "Target Support Files/Pods-MOCA/Pods-MOCA.release.xcconfig"; sourceTree = "<group>"; };
 		D92C5A713CEDB119D7FB3A64 /* Pods_MOCA.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MOCA.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -250,6 +272,17 @@
 		316786772ACE8AFA00B9076A = {
 			isa = PBXGroup;
 			children = (
+				B99F3AE22B963539000CF894 /* LanguageVC.swift */,
+				B99F3AE02B963194000CF894 /* t_ques_10.swift */,
+				B99F3ADE2B962F35000CF894 /* t_ques_9.swift */,
+				B99F3ADC2B961C5B000CF894 /* t_ques_8.swift */,
+				B99F3ADA2B961A79000CF894 /* t_ques_7.swift */,
+				B99F3AD82B961942000CF894 /* t_ques_6.swift */,
+				B99F3AD62B9616CE000CF894 /* t_ques_5.swift */,
+				B99F3AD42B961432000CF894 /* t_ques_4.swift */,
+				B99F3AD22B960EA5000CF894 /* t_ques_3_draw.swift */,
+				B99F3AD02B960D06000CF894 /* t_ques_2_draw.swift */,
+				B99F3ACE2B960845000CF894 /* t_ques_1.swift */,
 				B920F3CC2B7C88FF00E8E057 /* UIView.swift */,
 				316786822ACE8AFA00B9076A /* MOCA */,
 				316786812ACE8AFA00B9076A /* Products */,
@@ -467,17 +500,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B99F3ACF2B960845000CF894 /* t_ques_1.swift in Sources */,
 				092A20322B411E5100602392 /* UserDefault.swift in Sources */,
 				09D376802B1C77EE00B6F74B /* menubar.swift in Sources */,
 				092A20302B411E4A00602392 /* UIActions.swift in Sources */,
+				B99F3AD32B960EA6000CF894 /* t_ques_3_draw.swift in Sources */,
 				091E9C772AE97ADE0063A282 /* ViewPatientDetails.swift in Sources */,
 				097CF7452AEADF6800586854 /* Update_doctor.swift in Sources */,
 				09968C2B2B1BD2A4004FFDCB /* UpdateDoctorModel.swift in Sources */,
 				092D4D5F2AE9021A00CA7692 /* AddPateint.swift in Sources */,
 				B7679BBE2AE22D2C004FE586 /* LoginModel.swift in Sources */,
+				B99F3ADF2B962F35000CF894 /* t_ques_9.swift in Sources */,
+				B99F3ADB2B961A79000CF894 /* t_ques_7.swift in Sources */,
 				094075FF2B2742850051AE8B /* trashModel.swift in Sources */,
 				B71EA9392AEA222D0019D5ED /* PatientInfoModel.swift in Sources */,
 				09BD196A2B12D5B800FAF6F1 /* UpdatePatient.swift in Sources */,
+				B99F3AE12B963194000CF894 /* t_ques_10.swift in Sources */,
+				B99F3AD52B961432000CF894 /* t_ques_4.swift in Sources */,
 				316786882ACE8AFA00B9076A /* ViewController.swift in Sources */,
 				09A4E2BE2B1B639E00E079A9 /* GraphModel.swift in Sources */,
 				B76803742AD7C532002CC19B /* ceil.swift in Sources */,
@@ -485,6 +524,7 @@
 				09B93C742AEFEB94002CE263 /* ques_4.swift in Sources */,
 				317AB3CB2AD3F50600BDCABC /* ques_6.swift in Sources */,
 				316786842ACE8AFA00B9076A /* AppDelegate.swift in Sources */,
+				B99F3AD72B9616CE000CF894 /* t_ques_5.swift in Sources */,
 				09B93C6E2AEED8F4002CE263 /* profilescell.swift in Sources */,
 				091E9C752AE97A1A0063A282 /* ViewPateintDetailsModel.swift in Sources */,
 				094317882AF2BFF800575CC5 /* ques_3_draw.swift in Sources */,
@@ -492,6 +532,7 @@
 				092711532B07E91E00CF9DD2 /* AllResults.swift in Sources */,
 				0998EFFB2B0FAC0B00390949 /* ViewResultModel.swift in Sources */,
 				09A4E2BC2B1B621300E079A9 /* Graph.swift in Sources */,
+				B99F3AE32B963539000CF894 /* LanguageVC.swift in Sources */,
 				B7679BCC2AE2389E004FE586 /* DashboardModel.swift in Sources */,
 				09A2AF172AF1FF93002A4036 /* ques_2_draw.swift in Sources */,
 				316786982ACEA5F400B9076A /* Dashboard.swift in Sources */,
@@ -506,6 +547,8 @@
 				09B5FBAE2B0DC581003BCA08 /* Question4Model.swift in Sources */,
 				B71EA93B2AEA3D3B0019D5ED /* DoctorProfileModel.swift in Sources */,
 				092A202E2B411E4100602392 /* Constant.swift in Sources */,
+				B99F3AD92B961942000CF894 /* t_ques_6.swift in Sources */,
+				B99F3ADD2B961C5B000CF894 /* t_ques_8.swift in Sources */,
 				09CD67CD2B220062000CBB07 /* All_Profiles.swift in Sources */,
 				B920F3CD2B7C88FF00E8E057 /* UIView.swift in Sources */,
 				317AB3D12AD3F5EA00BDCABC /* ques_9.swift in Sources */,
@@ -519,6 +562,7 @@
 				092D4D612AE9111600CA7692 /* AddPati_Model.swift in Sources */,
 				09A5B9072B239D6900B24A63 /* AddComment.swift in Sources */,
 				3DFE02812AD2EC070012AE88 /* ques_1.swift in Sources */,
+				B99F3AD12B960D07000CF894 /* t_ques_2_draw.swift in Sources */,
 				09B93C702AEF5452002CE263 /* QuestionModel.swift in Sources */,
 				09664F9D2AF0D2340014C994 /* ResultModel.swift in Sources */,
 				3D4247CF2AD5B3AC0012D3DD /* topics.swift in Sources */,
