@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Mar 04, 2024 at 05:45 PM
+-- Generation Time: Mar 07, 2024 at 07:31 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -223,7 +223,9 @@ INSERT INTO `results` (`id`, `task1`, `task2`, `task3`, `task4`, `task5`, `task6
 (287, 5, 3, 5, 6, 3, 2, 6, 'uploads/BABBEC00-D34A-4287-BAE5-12D8C3376F6B.jpg', 'uploads/40C385A7-A42A-44F3-9AEE-E513BBB12789.jpg', 30, 'Severe Cognitive impairment', '2024-03-03 08:27:01', ''),
 (289, 5, 3, 5, 6, 3, 2, 6, 'uploads/E2447267-B813-4005-8B61-85BC5E711392.jpg', 'uploads/4CD95717-CF33-4E0D-AB1D-68C593E4A73A.jpg', 30, 'Severe Cognitive impairment', '2024-03-04 03:42:20', ''),
 (264, 5, 3, 5, 6, 3, 2, 6, 'uploads/0577D6D3-D47C-4B50-B682-8FCBB352C77C.jpg', 'uploads/ED18BAE6-718B-4EA3-ABD7-288D9FC620BF.jpg', 30, 'Severe Cognitive impairment', '2024-03-04 03:50:49', ''),
-(286, 5, 0, 5, 3, 3, 2, 6, 'uploads/8661112A-3A37-429D-B61A-A6EBEDB116CB.jpg', 'uploads/9B3FAB37-708E-4259-AE1F-419461C60EA8.jpg', 24, 'Severe Cognitive impairment', '2024-03-04 03:56:28', '');
+(286, 5, 0, 5, 3, 3, 2, 6, 'uploads/8661112A-3A37-429D-B61A-A6EBEDB116CB.jpg', 'uploads/9B3FAB37-708E-4259-AE1F-419461C60EA8.jpg', 24, 'Severe Cognitive impairment', '2024-03-04 03:56:28', ''),
+(289, 5, 0, 5, 6, 0, 2, 6, 'uploads/FE4A3246-29D4-4B1E-9F59-FC10B1140550.jpg', 'uploads/C7303925-A2D2-4178-9533-BB148D8421EB.jpg', 24, 'Severe Cognitive impairment', '2024-03-04 12:32:02', ''),
+(287, 5, 0, 5, 6, 0, 2, 6, 'uploads/5C2D92EB-AC4E-4632-BC57-2CB996A640E1.jpg', 'uploads/9FCF7435-B6CA-4DF5-82CA-AAB88E0D93F0.jpg', 24, 'Severe Cognitive impairment', '2024-03-04 12:35:01', '');
 
 -- --------------------------------------------------------
 
